@@ -15,8 +15,8 @@ version control: `Git`
 Code Versioning Hosting: `GitHub`
 
 ### ⚡ Fun fact: 
-- As a kid, I wanted to be a civil engineer
-- I also love baking
+- As a kid, I wanted to be a civil engineer.
+- My hobbies are baking, coding and vlogging.
 
 ### 📫 Contact
  Reach out for a coding chat or collaboration on [Instagram](https://www.instagram.com/code_with_dunni?igshid=MTNiYzNiMzkwZA%3D%3D) or [LinkedIn](https://www.linkedin.com/in/moridiyah-okuniyi-58a83b291/). Looking forward to connecting with fellow developers, sharing insights, and building something amazing together!
