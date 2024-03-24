@@ -3,6 +3,7 @@ I'm a passionate frontend developer on a mission to craft immersive digital expe
 
 - 🔭 I’m currently working on a food website.
 - 🌱 Learning Html and CSS in depth.
+- 💎 Getting familiar with Vue.js
 - 🚀 Excited about the endless possibilities of web development
 - ➰ My repositories are a mix of experimentation, projects in progress, and a few polished gems.
 - 🚲 Constantly learning and evolving, I believe in the power of open source that happens when collaborative minds come together.
