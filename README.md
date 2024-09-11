@@ -24,4 +24,4 @@ Backend Development: `PHP` (in progress)
 - My hobbies are baking, coding and vlogging.
 
 ### 📫 Contact
- Reach out for a coding chat or collaboration on [Instagram](https://www.instagram.com/moridiyah_code_mage?igshid=MTNiYzNiMzkwZA%3D%3D) or [LinkedIn](https://www.linkedin.com/in/moridiyah-okuniyi-58a83b291/). Looking forward to connecting with fellow developers, sharing insights, and building something amazing together!
+ Reach out for a coding chat or collaboration on [Instagram](https://www.instagram.com/moridiyah_code_mage?igshid=MTNiYzNiMzkwZA%3D%3D) Looking forward to connecting with fellow developers, sharing insights, and building something amazing together!
