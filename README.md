@@ -1,5 +1,5 @@
 ### Hey, I'm Moridiyah 👋🏽
-I'm a passionate developer on a mission to craft immersive digital experiences, now expanding my skills into backend development
+I'm a developer who enjoys building useful and interactive websites, now expanding my skills into backend development
 
 - 🔭 I’m currently expanding my skills into Back-end Web Development.
 - 🌱 Learning Databases using MySQL 
