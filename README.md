@@ -1,21 +1,23 @@
 ### Hey, I'm Moridiyah 👋🏽
-I'm a developer who enjoys building useful and interactive websites, now expanding my skills into backend development
+I'm a developer who enjoys building useful and interactive websites, now expanding my skills into both frontend and backend development
 
-- 🔭 I’m currently expanding my skills into Back-end Web Development.
-- 🌱 Learning Databases using MySQL 
-- 💎 Getting familiar with MySQL and Php
-- 🚀 Excited about the endless possibilities of web development
-- ➰ My repositories are a mix of experimentation, projects in progress, and a few polished gems.
-- 🚲 Constantly learning and evolving, I believe in the power of open source that happens when collaborative minds come together.
+- 🔭 I’m currently exploring React.js for dynamic and modern user interfaces.
+- 🌱 Learning Databases using MySQL and advancing my backend development with PHP.
+- 💎 Getting familiar with how frontend and backend integrate seamlessly.
+- 🚀 I’m excited about all the amazing things I can create and explore in web development.
+- ➰ My repositories is a mix of cool experiments, projects I’m still working on, and a few finished works I’m proud of.
+- 🚲 Constantly learning and evolving, I love how people can work together and share ideas to build great things through open source.
 
 ### 📦 Toolbox 
 Text editors: `Vscode`
+
+Frontend Development: `React.js` (learning in progress)
 
 Databases: `MySQL`
 
 version control: `Git`
 
-Code Versioning Hosting: `GitHub`
+Code Hosting: `GitHub`
 
 Backend Development: `PHP` (in progress)
 
