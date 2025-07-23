@@ -4,3 +4,7 @@ I'm a front-end designer who loves building things that actually work. Most of m
 ### 🎀 Fun fact: 
 - I learn best when things are explained simply. If they’re not, I’ll probably zone out.
 - My hobbies are baking, coding and vlogging.
+
+### 💻 Currently Learning:
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50"/>
