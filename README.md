@@ -11,4 +11,4 @@ I'm a front-end designer who loves building things that actually work. Most of m
 
 ### 📊 GitHub Contribution Chart:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moridiyah&theme=react-dark&hide_border=true&area=true)
+![GitHub Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moridiyah&bg_color=1a1a1a&color=ff69b4&line=ffb6c1&point=ff69b4&area=true&hide_border=true)
