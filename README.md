@@ -8,3 +8,7 @@ I'm a front-end designer who loves building things that actually work. Most of m
 ### 💻 Currently Learning:
 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50"/>
+
+## 📊 GitHub Contribution Chart:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moridiyah&theme=react-dark&hide_border=true&area=true)
